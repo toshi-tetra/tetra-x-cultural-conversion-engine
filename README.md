@@ -18,10 +18,10 @@ Express the same product truth differently depending on cultural storytelling st
 
 Example flow
 
-Brand claim
-+ customer reviews
-→ validated product truth
-→ US tagline (direct, confident)
+Brand claim  
++ customer reviews  
+→ validated product truth  
+→ US tagline (direct, confident)  
 → JP tagline (subtle, emotional)
 
 Why this matters
@@ -53,4 +53,6 @@ Narrative Style
 
 Vision
 
-This prototype is the first module of Tetra-X.ai, an AI-native agency platform where AI proposes ideas, local creators refine them, and consumers validate them to enable brand-consumer collaboration for global communication.
+This project is an experimental prototype built during a hackathon.
+
+It explores one idea related to Tetra-X.ai: converting validated product truth (from brand messaging and customer reviews) into culturally adapted taglines for different markets.
